@@ -4,10 +4,10 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 13
+    "patch": 14
   },
   "tags": {},
-  "logoURI": "https://dex.useagentos.dev/logo.png",
+  "logoURI": "https://dex.useagentos.dev/images/chains/8453.png",
   "keywords": ["agentos-dex", "tokens", "default", "official"],
   "tokens": [
     {

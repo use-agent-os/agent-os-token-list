@@ -1,10 +1,10 @@
 {
   "name": "Robinhood Stock Tokens",
-  "timestamp": "2026-11-20T06:44:42Z",
+  "timestamp": "2026-11-20T06:54:05Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "tags": {
     "stock": {
@@ -12,7 +12,7 @@
       "description": "A token an issuer backs with a listed share or fund. It may be restricted where you live."
     }
   },
-  "logoURI": "https://dex.useagentos.dev/logo.png",
+  "logoURI": "https://dex.useagentos.dev/images/chains/4663.png",
   "keywords": [
     "agentos-dex",
     "stocks",
