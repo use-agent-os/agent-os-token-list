@@ -1,0 +1,1012 @@
+{
+  "name": "Base Stock Tokens",
+  "timestamp": "2026-11-20T06:45:13Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {
+    "stock": {
+      "name": "Tokenized stock",
+      "description": "A token an issuer backs with a listed share or fund. It may be restricted where you live."
+    }
+  },
+  "logoURI": "https://dex.useagentos.dev/logo.png",
+  "keywords": [
+    "agentos-dex",
+    "stocks",
+    "tokenized",
+    "coinbase"
+  ],
+  "tokens": [
+    {
+      "name": "Applied Optoelectronics Inc",
+      "symbol": "AAOIc",
+      "address": "0xb200000000000000000000cf36d05963a3e2205c",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000cf36d05963a3e2205c.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Apple Inc.",
+      "symbol": "AAPLc",
+      "address": "0xb200000000000000000000c2e324d24d7eecd1fb",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000c2e324d24d7eecd1fb.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "AMC Entertainment Holdings, Inc.",
+      "symbol": "AMCc",
+      "address": "0xb200000000000000000000cd7e6b8042cb7c2bb5",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000cd7e6b8042cb7c2bb5.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Advanced Micro Devices, Inc.",
+      "symbol": "AMDc",
+      "address": "0xb2000000000000000000000d8ce462e99ee7a47b",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb2000000000000000000000d8ce462e99ee7a47b.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Amazon.com Inc.",
+      "symbol": "AMZNc",
+      "address": "0xb200000000000000000000d9192b6b456483c2e8",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000d9192b6b456483c2e8.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Arista Networks, Inc.",
+      "symbol": "ANETc",
+      "address": "0xb200000000000000000000e71d4e45d1421251cb",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000e71d4e45d1421251cb.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Anthropic, PBC",
+      "symbol": "ANTc",
+      "address": "0xb20000000000000000000016e38fd364d271ba28",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb20000000000000000000016e38fd364d271ba28.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "AppLovin Corporation",
+      "symbol": "APPc",
+      "address": "0xb20000000000000000000006f910a0e7bbd3c168",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb20000000000000000000006f910a0e7bbd3c168.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Arm Holdings plc",
+      "symbol": "ARMc",
+      "address": "0xb20000000000000000000026215d755356e5043f",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb20000000000000000000026215d755356e5043f.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "AST SpaceMobile, Inc.",
+      "symbol": "ASTSc",
+      "address": "0xb200000000000000000000b1a29cf17a1819288a",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000b1a29cf17a1819288a.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Broadcom Inc.",
+      "symbol": "AVGOc",
+      "address": "0xb200000000000000000000fc737aea6196ab5a4c",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000fc737aea6196ab5a4c.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Bank of America Corporation",
+      "symbol": "BACc",
+      "address": "0xb200000000000000000000e3e784cdf88df2959d",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000e3e784cdf88df2959d.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Bloom Energy Corporation",
+      "symbol": "BEc",
+      "address": "0xb20000000000000000000016f9dfe862feba122b",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb20000000000000000000016f9dfe862feba122b.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Baidu, Inc.",
+      "symbol": "BIDUc",
+      "address": "0xb200000000000000000000d2b7d9aee52f6c6bef",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000d2b7d9aee52f6c6bef.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Bilibili Inc.",
+      "symbol": "BILIc",
+      "address": "0xb200000000000000000000ca7c6d1438e7245eb6",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000ca7c6d1438e7245eb6.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Smartbird, Inc.",
+      "symbol": "BIRDc",
+      "address": "0xb200000000000000000000535fe96f18204bfd96",
+      "chainId": 8453,
+      "decimals": 8,
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "BitMine Immersion Technologies, Inc.",
+      "symbol": "BMNRc",
+      "address": "0xb200000000000000000000ea2df44a307cab279c",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000ea2df44a307cab279c.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Berkshire Hathaway Inc. Class B",
+      "symbol": "BRK.Bc",
+      "address": "0xb20000000000000000000024170488e788cbbcb4",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb20000000000000000000024170488e788cbbcb4.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Anheuser-Busch InBev SA/NV",
+      "symbol": "BUDc",
+      "address": "0xb200000000000000000000c36ce081dd09e86ca2",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000c36ce081dd09e86ca2.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Cheesecake Factory Inc",
+      "symbol": "CAKEc",
+      "address": "0xb200000000000000000000f215e4c890cfb7176b",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000f215e4c890cfb7176b.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Cerebras Systems Inc.",
+      "symbol": "CBRSc",
+      "address": "0xb200000000000000000000720133eedf525f93e2",
+      "chainId": 8453,
+      "decimals": 8,
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Chipotle Mexican Grill, Inc.",
+      "symbol": "CMGc",
+      "address": "0xb200000000000000000000e4a60215e10d6d8c2b",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000e4a60215e10d6d8c2b.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Circle Internet Group Inc.",
+      "symbol": "CRCLc",
+      "address": "0xb20000000000000000000019f6e7c675b73c2e4d",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb20000000000000000000019f6e7c675b73c2e4d.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Salesforce, Inc.",
+      "symbol": "CRMc",
+      "address": "0xb2000000000000000000006432a3a7991e718dbb",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb2000000000000000000006432a3a7991e718dbb.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "CoreWeave, Inc.",
+      "symbol": "CRWVc",
+      "address": "0xb200000000000000000000f111184a74720787e6",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000f111184a74720787e6.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Trump Media & Technology Group Corp.",
+      "symbol": "DJTc",
+      "address": "0xb200000000000000000000428e3a3eebbb20692b",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000428e3a3eebbb20692b.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Duolingo, Inc.",
+      "symbol": "DUOLc",
+      "address": "0xb200000000000000000000a613d12deafbbb1db7",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000a613d12deafbbb1db7.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "GameStop Corp.",
+      "symbol": "GMEc",
+      "address": "0xb2000000000000000000007790ed6e48e06ed935",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb2000000000000000000007790ed6e48e06ed935.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Alphabet Inc.",
+      "symbol": "GOOGLc",
+      "address": "0xb2000000000000000000002d0ba3164cc74f58b7",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb2000000000000000000002d0ba3164cc74f58b7.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "GitLab Inc.",
+      "symbol": "GTLBc",
+      "address": "0xb200000000000000000000df14b76c292a32982d",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000df14b76c292a32982d.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Hims & Hers Health, Inc.",
+      "symbol": "HIMSc",
+      "address": "0xb20000000000000000000043a599976181bcf336",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb20000000000000000000043a599976181bcf336.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Robinhood Markets, Inc.",
+      "symbol": "HOODc",
+      "address": "0xb2000000000000000000006f944897540579d3f2",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb2000000000000000000006f944897540579d3f2.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Hesai Group",
+      "symbol": "HSAIc",
+      "address": "0xb200000000000000000000f3049f4aa834b23b64",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000f3049f4aa834b23b64.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Hertz Global Holdings, Inc.",
+      "symbol": "HTZc",
+      "address": "0xb2000000000000000000002601c5c94f435da168",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb2000000000000000000002601c5c94f435da168.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Infosys Limited",
+      "symbol": "INFYc",
+      "address": "0xb200000000000000000000f6b0417af5f52341fc",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000f6b0417af5f52341fc.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Intel Corporation",
+      "symbol": "INTCc",
+      "address": "0xb2000000000000000000004aff16039ba04bdfbc",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb2000000000000000000004aff16039ba04bdfbc.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Johnson & Johnson",
+      "symbol": "JNJc",
+      "address": "0xb20000000000000000000090658e3f9b29e2f5c2",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb20000000000000000000090658e3f9b29e2f5c2.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "The Coca-Cola Company",
+      "symbol": "KOc",
+      "address": "0xb200000000000000000000ffef181db6dc5ed6a3",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000ffef181db6dc5ed6a3.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Li Auto Inc.",
+      "symbol": "LIc",
+      "address": "0xb200000000000000000000d61efd9f54a23ef9eb",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000d61efd9f54a23ef9eb.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Lumentum Holdings Inc",
+      "symbol": "LITEc",
+      "address": "0xb200000000000000000000eda6c2c6f11e0f838f",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000eda6c2c6f11e0f838f.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Eli Lilly & Co",
+      "symbol": "LLYc",
+      "address": "0xb200000000000000000000f1a0f91e34892e4718",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000f1a0f91e34892e4718.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Lam Research Corporation",
+      "symbol": "LRCXc",
+      "address": "0xb20000000000000000000034975347ff1848aab9",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb20000000000000000000034975347ff1848aab9.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "lululemon athletica inc.",
+      "symbol": "LULUc",
+      "address": "0xb200000000000000000000989dc22d3656717734",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000989dc22d3656717734.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "McDonald's Corporation",
+      "symbol": "MCDc",
+      "address": "0xb200000000000000000000d2f4cf2f7debb244bb",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000d2f4cf2f7debb244bb.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Meta Platforms Inc.",
+      "symbol": "METAc",
+      "address": "0xb2000000000000000000008bc8786b856e61707c",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb2000000000000000000008bc8786b856e61707c.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "MP Materials Corp.",
+      "symbol": "MPc",
+      "address": "0xb2000000000000000000003958003d801724f9d3",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb2000000000000000000003958003d801724f9d3.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Merck & Co., Inc.",
+      "symbol": "MRKc",
+      "address": "0xb200000000000000000000241fe94fe97fcbf034",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000241fe94fe97fcbf034.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Moderna, Inc.",
+      "symbol": "MRNAc",
+      "address": "0xb200000000000000000000e215e9b76ecba02468",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000e215e9b76ecba02468.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Marvell Technology, Inc.",
+      "symbol": "MRVLc",
+      "address": "0xb200000000000000000000ec3c4c7395cc609813",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000ec3c4c7395cc609813.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Microsoft Corporation",
+      "symbol": "MSFTc",
+      "address": "0xb200000000000000000000ab99cfa739e253872b",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000ab99cfa739e253872b.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Strategy Inc.",
+      "symbol": "MSTRc",
+      "address": "0xb2000000000000000000004884b426556b92883d",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb2000000000000000000004884b426556b92883d.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Micron Technology Inc.",
+      "symbol": "MUc",
+      "address": "0xb200000000000000000000fd2f87532b90095211",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000fd2f87532b90095211.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Netflix Inc",
+      "symbol": "NFLXc",
+      "address": "0xb20000000000000000000058b8c947e44011dfe6",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb20000000000000000000058b8c947e44011dfe6.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "NIO Inc.",
+      "symbol": "NIOc",
+      "address": "0xb2000000000000000000002d2b5dc53c61f1ba06",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb2000000000000000000002d2b5dc53c61f1ba06.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Nokia Corporation",
+      "symbol": "NOKc",
+      "address": "0xb2000000000000000000005ac674f707e357409c",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb2000000000000000000005ac674f707e357409c.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Novavax Inc",
+      "symbol": "NVAXc",
+      "address": "0xb200000000000000000000c597c476fcf9aed3a8",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000c597c476fcf9aed3a8.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "NVIDIA Corporation",
+      "symbol": "NVDAc",
+      "address": "0xb20000000000000000000078ee7ce2fe4908108c",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb20000000000000000000078ee7ce2fe4908108c.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Novo Nordisk A/S",
+      "symbol": "NVOc",
+      "address": "0xb2000000000000000000008d5328e9208773dc58",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb2000000000000000000008d5328e9208773dc58.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Oracle Corporation",
+      "symbol": "ORCLc",
+      "address": "0xb200000000000000000000347afba223d7b6b63c",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000347afba223d7b6b63c.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "PDD Holdings Inc.",
+      "symbol": "PDDc",
+      "address": "0xb200000000000000000000c8a7223510467d8563",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000c8a7223510467d8563.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Pfizer Inc",
+      "symbol": "PFEc",
+      "address": "0xb20000000000000000000018fe7ec7d6dfeeb528",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb20000000000000000000018fe7ec7d6dfeeb528.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Palantir Technologies Inc.",
+      "symbol": "PLTRc",
+      "address": "0xb2000000000000000000007d16372840df4dabbe",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb2000000000000000000007d16372840df4dabbe.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Philip Morris International Inc.",
+      "symbol": "PMc",
+      "address": "0xb2000000000000000000008fc2a8c23cf5937b66",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb2000000000000000000008fc2a8c23cf5937b66.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Peloton Interactive, Inc.",
+      "symbol": "PTONc",
+      "address": "0xb2000000000000000000009272a491812842aa84",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb2000000000000000000009272a491812842aa84.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "PayPal Holdings, Inc.",
+      "symbol": "PYPLc",
+      "address": "0xb200000000000000000000450ad3abe5d4846c6e",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000450ad3abe5d4846c6e.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Qualcomm Incorporated",
+      "symbol": "QCOMc",
+      "address": "0xb2000000000000000000005672d78eff30d24665",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb2000000000000000000005672d78eff30d24665.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Quantum Computing Inc.",
+      "symbol": "QUBTc",
+      "address": "0xb200000000000000000000ca425ab42e07c35bc3",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000ca425ab42e07c35bc3.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Roblox Corporation",
+      "symbol": "RBLXc",
+      "address": "0xb2000000000000000000005bd7ae89b9e6189bb5",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb2000000000000000000005bd7ae89b9e6189bb5.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Reddit, Inc.",
+      "symbol": "RDDTc",
+      "address": "0xb20000000000000000000066242d4067724cb7a1",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb20000000000000000000066242d4067724cb7a1.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Rivian Automotive, Inc.",
+      "symbol": "RIVNc",
+      "address": "0xb2000000000000000000003e4249c65bd6c037d9",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb2000000000000000000003e4249c65bd6c037d9.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Rocket Lab Corporation",
+      "symbol": "RKLBc",
+      "address": "0xb200000000000000000000e8e50cbbb9a3861a3c",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000e8e50cbbb9a3861a3c.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Banco Santander, S.A.",
+      "symbol": "SANc",
+      "address": "0xb20000000000000000000017bb66e9301e913a99",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb20000000000000000000017bb66e9301e913a99.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "SAP SE",
+      "symbol": "SAPc",
+      "address": "0xb200000000000000000000da6f64c306234127e0",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000da6f64c306234127e0.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Sea Limited",
+      "symbol": "SEc",
+      "address": "0xb2000000000000000000003088798f6d0722aaac",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb2000000000000000000003088798f6d0722aaac.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "SK hynix Inc.",
+      "symbol": "SKHYc",
+      "address": "0xb200000000000000000000187f7071d6e321a7d2",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000187f7071d6e321a7d2.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Sandisk Corporation",
+      "symbol": "SNDKc",
+      "address": "0xb200000000000000000000397293cb8cda9a10c5",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000397293cb8cda9a10c5.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "SoFi Technologies, Inc.",
+      "symbol": "SOFIc",
+      "address": "0xb2000000000000000000003ef37a7c863dc1482a",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb2000000000000000000003ef37a7c863dc1482a.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Sony Group Corporation",
+      "symbol": "SONYc",
+      "address": "0xb200000000000000000000a26326a922ffa87f6c",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000a26326a922ffa87f6c.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "SoundHound AI, Inc.",
+      "symbol": "SOUNc",
+      "address": "0xb2000000000000000000002137743d4a01fe4e88",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb2000000000000000000002137743d4a01fe4e88.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Space Exploration Technologies Corp.",
+      "symbol": "SPCXc",
+      "address": "0xb2000000000000000000007b9fcbd005511acbd5",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb2000000000000000000007b9fcbd005511acbd5.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Tesla Inc.",
+      "symbol": "TSLAc",
+      "address": "0xb2000000000000000000001e800a7f5189430cd0",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb2000000000000000000001e800a7f5189430cd0.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Take-Two Interactive Software, Inc.",
+      "symbol": "TTWOc",
+      "address": "0xb200000000000000000000f720c26062bc3067da",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000f720c26062bc3067da.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Unilever Plc",
+      "symbol": "ULc",
+      "address": "0xb200000000000000000000349ef3aa93a0897476",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000349ef3aa93a0897476.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "UnitedHealth Group Incorporated",
+      "symbol": "UNHc",
+      "address": "0xb200000000000000000000c367d37d07150182a2",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000c367d37d07150182a2.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Vale S.A.",
+      "symbol": "VALEc",
+      "address": "0xb20000000000000000000063376b142c0764b489",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb20000000000000000000063376b142c0764b489.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Vertiv Holdings Co",
+      "symbol": "VRTc",
+      "address": "0xb200000000000000000000b2e8dba585b1ffb158",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000b2e8dba585b1ffb158.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Vistra Corp.",
+      "symbol": "VSTc",
+      "address": "0xb20000000000000000000079dc24fe2fbd09110f",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb20000000000000000000079dc24fe2fbd09110f.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Western Digital Corporation",
+      "symbol": "WDCc",
+      "address": "0xb2000000000000000000008fde21a1f5c69fec0b",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb2000000000000000000008fde21a1f5c69fec0b.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "Wendy's Co",
+      "symbol": "WENc",
+      "address": "0xb20000000000000000000044e3cd7a0e1028e57a",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb20000000000000000000044e3cd7a0e1028e57a.png",
+      "tags": [
+        "stock"
+      ]
+    },
+    {
+      "name": "WeRide Inc.",
+      "symbol": "WRDc",
+      "address": "0xb200000000000000000000e88efe88d8ade3f0da",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/8453/tokens/0xb200000000000000000000e88efe88d8ade3f0da.png",
+      "tags": [
+        "stock"
+      ]
+    }
+  ]
+}

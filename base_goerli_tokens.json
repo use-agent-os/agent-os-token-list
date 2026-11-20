@@ -8,7 +8,7 @@
   },
   "tags": {},
   "logoURI": "https://dex.useagentos.dev/logo.png",
-  "keywords": ["dackieswap", "default"],
+  "keywords": ["agentos-dex", "default"],
   "tokens": [
     {
       "name": "Wrapped BTC",
