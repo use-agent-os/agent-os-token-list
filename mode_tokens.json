@@ -1,0 +1,125 @@
+{
+  "name": "Mode Mainnet Zone",
+  "timestamp": "2023-08-01T23:11:11Z",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://dex.useagentos.dev/logo.png",
+  "keywords": ["dackieswap", "tokens", "default", "official"],
+  "tokens": [
+    {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 34443,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/34443/tokens/0x4200000000000000000000000000000000000006.png"
+    },
+    {
+      "name": "Renzo Restaked ETH",
+      "symbol": "ezETH",
+      "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+      "chainId": 34443,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/34443/tokens/0x2416092f143378750bb29b79eD961ab195CcEea5.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "Wrapped eETH",
+      "symbol": "weETH",
+      "address": "0x028227c4dd1e5419d11Bb6fa6e661920c519D4F5",
+      "chainId": 34443,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/34443/tokens/0x028227c4dd1e5419d11Bb6fa6e661920c519D4F5.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0xd988097fb8612cc24eeC14542bC03424c656005f",
+      "chainId": 34443,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/34443/tokens/0xd988097fb8612cc24eeC14542bC03424c656005f.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0xf0F161fDA2712DB8b566946122a5af183995e2eD",
+      "chainId": 34443,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/34443/tokens/0xf0F161fDA2712DB8b566946122a5af183995e2eD.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "address": "0xcDd475325D6F564d27247D1DddBb0DAc6fA0a5CF",
+      "chainId": 34443,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/34443/tokens/0xcDd475325D6F564d27247D1DddBb0DAc6fA0a5CF.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "MoChadCoin",
+      "symbol": "MOCHAD",
+      "address": "0xcDa802a5BFFaa02b842651266969A5Bba0c66D3e",
+      "chainId": 34443,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/34443/tokens/0xcDa802a5BFFaa02b842651266969A5Bba0c66D3e.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "Mode",
+      "symbol": "MODE",
+      "address": "0xDfc7C877a950e49D2610114102175A06C2e3167a",
+      "chainId": 34443,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/34443/tokens/0xDfc7C877a950e49D2610114102175A06C2e3167a.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "DACKIE Token (legacy)",
+      "symbol": "DACKIE",
+      "address": "0xF15578bCDB3ccBA8585c563af9aAe200c1413bcA",
+      "chainId": 34443,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/34443/tokens/0xF15578bCDB3ccBA8585c563af9aAe200c1413bcA.png"
+    },
+    {
+      "name": "Quack",
+      "symbol": "QUACK",
+      "address": "0xd2ecb0CB0A65479D18b291C3c0F18130e7973C35",
+      "chainId": 34443,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/34443/tokens/0xd2ecb0CB0A65479D18b291C3c0F18130e7973C35.png"
+    },
+    {
+      "name": "Dackie USD",
+      "symbol": "dckUSD",
+      "address": "0xFDF91D8289E30bBF9A34Fb3e0246fd98d1914C2f",
+      "chainId": 34443,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/34443/tokens/0xFDF91D8289E30bBF9A34Fb3e0246fd98d1914C2f.png"
+    },
+    {
+      "name": "DACKIE Superchain",
+      "symbol": "DACKIE",
+      "address": "0x73326b4d0225c429bed050c11C4422d91470AaF4",
+      "chainId": 34443,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/34443/tokens/0x73326b4d0225c429bed050c11C4422d91470AaF4.png"
+    }
+  ]
+}

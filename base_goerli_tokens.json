@@ -1,0 +1,190 @@
+{
+  "name": "Base Goerli Zone",
+  "timestamp": "2023-06-14T11:45:09Z",
+  "version": {
+    "major": 1,
+    "minor": 2,
+    "patch": 11
+  },
+  "tags": {},
+  "logoURI": "https://dex.useagentos.dev/logo.png",
+  "keywords": ["dackieswap", "default"],
+  "tokens": [
+    {
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "address": "0xeA96c24CDeF2FB472b86eB51414e8D7cf2cA3302",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/84531/tokens/0xeA96c24CDeF2FB472b86eB51414e8D7cf2cA3302.png"
+    },
+    {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/84531/tokens/0x4200000000000000000000000000000000000006.png"
+    },
+    {
+      "name": "Base Goerli LINK",
+      "symbol": "LINK",
+      "address": "0x6D0F8D488B669aa9BA2D0f0b7B75a88bf5051CD3",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/84531/tokens/0x6D0F8D488B669aa9BA2D0f0b7B75a88bf5051CD3.png"
+    },
+    {
+      "name": "Dackie",
+      "symbol": "DACKIE",
+      "address": "0xcf8E7e6b26F407dEE615fc4Db18Bf829E7Aa8C09",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/84531/tokens/0xcf8E7e6b26F407dEE615fc4Db18Bf829E7Aa8C09.png"
+    },
+    {
+      "name": "USDC Base Goerli",
+      "symbol": "USDC",
+      "address": "0x2e9F75DF8839ff192Da27e977CD154FD1EAE03cf",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/84531/tokens/0x2e9F75DF8839ff192Da27e977CD154FD1EAE03cf.png"
+    },
+    {
+      "name": "USDT Base Goerli",
+      "symbol": "USDT",
+      "address": "0x3e8B7c72f4a9f4C8ec375c11F44FB84242c3893F",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/84531/tokens/0x3e8B7c72f4a9f4C8ec375c11F44FB84242c3893F.png"
+    },
+    {
+      "name": "Dackie PEPE",
+      "symbol": "DPEPE",
+      "address": "0x01eF0ec10dc7d9892a685Be60014ca995E2Ba096",
+      "chainId": 84531,
+      "decimals": 1,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/84531/tokens/0x01eF0ec10dc7d9892a685Be60014ca995E2Ba096.png"
+    },
+    {
+      "name": "Oil Barrel",
+      "symbol": "OIL",
+      "address": "0x5bC8BDC70D7cD2ff78E0CDA60d326685c047f7B5",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/84531/tokens/0x5bC8BDC70D7cD2ff78E0CDA60d326685c047f7B5.png"
+    },
+    {
+      "name": "Punk Base",
+      "symbol": "PunkBase",
+      "address": "0xeb31E4B4beDfb0df00B5dA90f30501d263b37691",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/84531/tokens/0xeb31E4B4beDfb0df00B5dA90f30501d263b37691.png"
+    },
+    {
+      "name": "tBulls Token",
+      "symbol": "tBLX",
+      "address": "0x0EC5B10F67adf2443a4F61009BE4E0a6531A2AF8",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/84531/tokens/0x0EC5B10F67adf2443a4F61009BE4E0a6531A2AF8.png"
+    },
+    {
+      "name": "Vorantium Lode",
+      "symbol": "VOLO",
+      "address": "0x0A92A3d016682C9E7E4Ba808BeCF8Fd1dF85ba7d",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/84531/tokens/0x0A92A3d016682C9E7E4Ba808BeCF8Fd1dF85ba7d.png"
+    },
+    {
+      "name": "Gogems",
+      "symbol": "GOGE",
+      "address": "0x278BC93Bc84faEe5F22B8C398083e2E86F18a11F",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/84531/tokens/0x278BC93Bc84faEe5F22B8C398083e2E86F18a11F.png"
+    },
+    {
+      "name": "Grass",
+      "symbol": "GRZ",
+      "address": "0x3476901eA02cB3E747a5199144b82289191Da64a",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/84531/tokens/0x3476901eA02cB3E747a5199144b82289191Da64a.png"
+    },
+    {
+      "name": "AVANT-GARDE",
+      "symbol": "$AVNT",
+      "address": "0xf2cf4f495f32Cf113C72A0Eeeb798cf39056ab1F",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/84531/tokens/0xf2cf4f495f32Cf113C72A0Eeeb798cf39056ab1F.png"
+    },
+    {
+      "name": "Quack Token",
+      "symbol": "QUACK",
+      "address": "0xa6502d582268F05b3bCcE2a15dd44c21b0219340",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/84531/tokens/0xa6502d582268F05b3bCcE2a15dd44c21b0219340.png"
+    },
+    {
+      "name": "Quack Token V2",
+      "symbol": "QUACKv2",
+      "address": "0x60b63C016d4Aa91FEfe7e3CE1A69E9a3ea7DEb96",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/84531/tokens/0x60b63C016d4Aa91FEfe7e3CE1A69E9a3ea7DEb96.png"
+    },
+    {
+      "name": "Crypto Bosses",
+      "symbol": "BOSS",
+      "address": "0xb4e4127551265ff0f3b6C98e591520E6eEff3F39",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/84531/tokens/0xb4e4127551265ff0f3b6C98e591520E6eEff3F39.png"
+    },
+    {
+      "name": "Coinbase Wrapped Staked ETH",
+      "symbol": "cbETH",
+      "address": "0x9E6f59e7EA9A0dB53eAC836F36Cff7c674ffAa37",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/84531/tokens/0x9E6f59e7EA9A0dB53eAC836F36Cff7c674ffAa37.png"
+    },
+    {
+      "name": "Lido Staked Ether",
+      "symbol": "stETH",
+      "address": "0xe5111fEfD0694b81529d9F57ACD85a537251cDCc",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/84531/tokens/0xe5111fEfD0694b81529d9F57ACD85a537251cDCc.png"
+    },
+    {
+      "name": "Doo Doo",
+      "symbol": "DooDoo",
+      "address": "0xFDeacA5bc0E8DC0Df189F233d84578e037f908d7",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/84531/tokens/0xFDeacA5bc0E8DC0Df189F233d84578e037f908d7.png"
+    },
+    {
+      "name": "GogemsV2",
+      "symbol": "GOGEv2",
+      "address": "0x52887f00B6f57C9308A1032570E8888FdF6535ae",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/84531/tokens/0x52887f00B6f57C9308A1032570E8888FdF6535ae.png"
+    },
+    {
+      "name": "USD Base Coin",
+      "symbol": "USDbC",
+      "address": "0xEE6A85394A3e511967e5c7033973416E2BB5FA53",
+      "chainId": 84531,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/84531/tokens/0xEE6A85394A3e511967e5c7033973416E2BB5FA53.png"
+    }
+  ]
+}

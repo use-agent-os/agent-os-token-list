@@ -1,0 +1,4 @@
+.DS_Store
+.idea
+# Local agent tooling (the add-token skill) is not part of the list
+.claude/
