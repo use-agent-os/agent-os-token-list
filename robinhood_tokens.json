@@ -3,8 +3,8 @@
   "timestamp": "2023-08-01T23:11:11Z",
   "version": {
     "major": 0,
-    "minor": 0,
-    "patch": 12
+    "minor": 1,
+    "patch": 0
   },
   "tags": {},
   "logoURI": "https://dex.useagentos.dev/images/chains/4663.png",
@@ -83,38 +83,6 @@
       "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0x8e62f281f282686fca6dcb39288069a93fc23f1c.png"
     },
     {
-      "name": "ROBIN THE HOODINI",
-      "symbol": "HOODINI",
-      "address": "0x0856F71C65268DA154DA4413d961cb348Dc6119d",
-      "chainId": 4663,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0x0856F71C65268DA154DA4413d961cb348Dc6119d.png"
-    },
-    {
-      "name": "cr33per",
-      "symbol": "cr33p",
-      "address": "0xE78D6BEd11DF7fCb033eD91924F489C70e1E9BA3",
-      "chainId": 4663,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0xE78D6BEd11DF7fCb033eD91924F489C70e1E9BA3.png"
-    },
-    {
-      "name": "HOODIE",
-      "symbol": "HOODIE",
-      "address": "0xc72c01aab5f5678dc1d6f5c6d2b417d91d402ba3",
-      "chainId": 4663,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0xc72c01aab5f5678dc1d6f5c6d2b417d91d402ba3.png"
-    },
-    {
-      "name": "Stargazer AI",
-      "symbol": "STAR",
-      "address": "0x0172fD20b8E89CB577a6EDd3B800EE7b2a5B00c1",
-      "chainId": 4663,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0x0172fD20b8E89CB577a6EDd3B800EE7b2a5B00c1.png"
-    },
-    {
       "name": "WISHBONE",
       "symbol": "WISHBONE",
       "address": "0x77581054581B9c525E7dd7a0155DE43867532d03",
@@ -123,36 +91,228 @@
       "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0x77581054581B9c525E7dd7a0155DE43867532d03.png"
     },
     {
-      "name": "Mintly",
-      "symbol": "MLY",
-      "address": "0x84b7515081A7Ac5adc26179b77A8B18A8c6725C0",
+      "name": "Pons",
+      "symbol": "PONS",
+      "address": "0x39dbed3a2bd333467115de45665cc57f813c4571",
       "chainId": 4663,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0x84b7515081A7Ac5adc26179b77A8B18A8c6725C0.png"
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0x39dbed3a2bd333467115de45665cc57f813c4571.png"
     },
     {
-      "name": "OrbitEditor",
-      "symbol": "ORBIT",
-      "address": "0x274C69125bc03784f61378DcE7FB6c6D87331389",
+      "name": "Coinbase Wrapped BTC",
+      "symbol": "cbBTC",
+      "address": "0xcec185eb182c47d1ba1efc84e6959e18cd620be4",
       "chainId": 4663,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0x274C69125bc03784f61378DcE7FB6c6D87331389.png"
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0xcec185eb182c47d1ba1efc84e6959e18cd620be4.png"
     },
     {
-      "name": "Vena Protocol",
-      "symbol": "VENA",
-      "address": "0xFbD1Bf9d354CD8197Ab54f80778C03cc468ADAaf",
+      "name": "Hookr.fun",
+      "symbol": "HOOKR",
+      "address": "0x18e674231a58c239dc7daedcffe15ec3a24cff5c",
       "chainId": 4663,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0xFbD1Bf9d354CD8197Ab54f80778C03cc468ADAaf.png"
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0x18e674231a58c239dc7daedcffe15ec3a24cff5c.png"
     },
     {
-      "name": "VORTANO",
-      "symbol": "VRTN",
-      "address": "0xe81DC008231035C91F09633c541394B9DdF53673",
+      "name": "Priors Agents",
+      "symbol": "PRIORS",
+      "address": "0xedbf91223639800bcd5756815caf908df3b890be",
       "chainId": 4663,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0xe81DC008231035C91F09633c541394B9DdF53673.png"
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0xedbf91223639800bcd5756815caf908df3b890be.png"
+    },
+    {
+      "name": "Artificial Inu",
+      "symbol": "AI",
+      "address": "0x2e8c31162b855a2ffa90f6f8634643ad6f111e18",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0x2e8c31162b855a2ffa90f6f8634643ad6f111e18.png"
+    },
+    {
+      "name": "United Stables",
+      "symbol": "U",
+      "address": "0xce24439f2d9c6a2289f741120fe202248b666666",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0xce24439f2d9c6a2289f741120fe202248b666666.png"
+    },
+    {
+      "name": "Orbio.so",
+      "symbol": "ORBIO",
+      "address": "0xaa07a0e9209e16ac99708c3ec70159c6ef3128a3",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0xaa07a0e9209e16ac99708c3ec70159c6ef3128a3.png"
+    },
+    {
+      "name": "Goldstein",
+      "symbol": "GLDSTN",
+      "address": "0xfce34d21a92069100e3226638140706cf03a266e",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0xfce34d21a92069100e3226638140706cf03a266e.png"
+    },
+    {
+      "name": "what the hook?",
+      "symbol": "WTH",
+      "address": "0xb8fa8010833463aac5595b55b9045479239eff79",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0xb8fa8010833463aac5595b55b9045479239eff79.png"
+    },
+    {
+      "name": "Delta",
+      "symbol": "DELTA",
+      "address": "0xe8ffd7e24187f72afb08d75b1bb13088a989a791",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0xe8ffd7e24187f72afb08d75b1bb13088a989a791.png"
+    },
+    {
+      "name": "frong",
+      "symbol": "FRONG",
+      "address": "0x6245e67affa44a23077f0ea7f981a8dc743a0c47",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0x6245e67affa44a23077f0ea7f981a8dc743a0c47.png"
+    },
+    {
+      "name": "The Index",
+      "symbol": "Index",
+      "address": "0x56910d4409f3a0c78c64dd8d0545ff0705389870",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0x56910d4409f3a0c78c64dd8d0545ff0705389870.png"
+    },
+    {
+      "name": "Boner Coin",
+      "symbol": "BONER",
+      "address": "0x98096d17e191b3da1d5f99a6d7b3584351b11e18",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0x98096d17e191b3da1d5f99a6d7b3584351b11e18.png"
+    },
+    {
+      "name": "up",
+      "symbol": "UP",
+      "address": "0x57c0e45cb534413d1c20a4240955d6bb250bb4f1",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0x57c0e45cb534413d1c20a4240955d6bb250bb4f1.png"
+    },
+    {
+      "name": "Thinking Cat",
+      "symbol": "HMM",
+      "address": "0x7fe995a80075df3dc8ae11a9b82c7fe4202cd87f",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0x7fe995a80075df3dc8ae11a9b82c7fe4202cd87f.png"
+    },
+    {
+      "name": "StonkBroker",
+      "symbol": "STONKBROKER",
+      "address": "0xe934e36a439c94017b64a3fece66af12099abf50",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0xe934e36a439c94017b64a3fece66af12099abf50.png"
+    },
+    {
+      "name": "FOBO",
+      "symbol": "FOBO",
+      "address": "0x000de658153f47f23e92973c8eb1e89762703676",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0x000de658153f47f23e92973c8eb1e89762703676.png"
+    },
+    {
+      "name": "A Meme Coin",
+      "symbol": "MEME",
+      "address": "0x385f4f8ae47651ce5f58f5265395a669f8281e18",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0x385f4f8ae47651ce5f58f5265395a669f8281e18.png"
+    },
+    {
+      "name": "Lighter",
+      "symbol": "LIT",
+      "address": "0xeeca2e7dc194a320d349122d88259bb9595a4cb0",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0xeeca2e7dc194a320d349122d88259bb9595a4cb0.png"
+    },
+    {
+      "name": "USDe",
+      "symbol": "USDe",
+      "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.png"
+    },
+    {
+      "name": "microduck",
+      "symbol": "microduck",
+      "address": "0xd5f1afea47b1a9eab414d2ee740cf1d6d039e725",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0xd5f1afea47b1a9eab414d2ee740cf1d6d039e725.png"
+    },
+    {
+      "name": "TENDIES",
+      "symbol": "TENDIES",
+      "address": "0x45242320dbb855eea8fd36804c6487e10e97fcf9",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0x45242320dbb855eea8fd36804c6487e10e97fcf9.png"
+    },
+    {
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "address": "0xf177d86a28b520e3e396e4f3b96cd8e72d7dabd8",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0xf177d86a28b520e3e396e4f3b96cd8e72d7dabd8.png"
+    },
+    {
+      "name": "Bundle Cat",
+      "symbol": "BUN",
+      "address": "0x07ebb29a38fbcb41563817e5e19f2cec619c90d2",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0x07ebb29a38fbcb41563817e5e19f2cec619c90d2.png"
+    },
+    {
+      "name": "Raeto",
+      "symbol": "RAETO",
+      "address": "0x72be1277e198d0c476869253cb4e62807e14533c",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0x72be1277e198d0c476869253cb4e62807e14533c.png"
+    },
+    {
+      "name": "ZZZ",
+      "symbol": "ZZZ",
+      "address": "0x7dbf38976f6d3b9c529e7d9484a71898b409ee6a",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0x7dbf38976f6d3b9c529e7d9484a71898b409ee6a.png"
+    },
+    {
+      "name": "The Juggernaut",
+      "symbol": "JUGGERNAUT",
+      "address": "0xd7321801caae694090694ff55a9323139f043b88",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0xd7321801caae694090694ff55a9323139f043b88.png"
+    },
+    {
+      "name": "AgentOS",
+      "symbol": "AGENTOS",
+      "address": "0x6eda83fc299c10d474068a7e69771c809bcbbba3",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/use-agent-os/agent-os-token-list/main/images/4663/tokens/0x6eda83fc299c10d474068a7e69771c809bcbbba3.png"
     }
   ]
 }
